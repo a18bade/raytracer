@@ -8,6 +8,8 @@ I also believe that i handled internal reflection where T "doesnt exists" in my 
 
 The "other.ppm is the ppm file asscoiated with myOwnScene.txt
 
-This is my raytracer project, I have some bugs in it. I want to implement some more features, fix these bugs and refractor my code to be cleaner
+This is my raytracer project, I have some bugs in it. I want to implement some more features, fix these bugs and refractor my code to be cleaner.
+
+The main code is in raytracer.cpp
 
 Ahmed Bade
